@@ -1,0 +1,6 @@
+Package: themeSergio
+Type: Package
+Title: Package with my favourite ggplot2 theme
+Version: 0.1.0
+Author: Sergio Llaneza-Lago
+RoxygenNote: 7.3.1
